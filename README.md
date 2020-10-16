@@ -1,4 +1,4 @@
-<img src="img/header.png">
+<img src="img/titulo.png">
 
 <table>
     <tr>
@@ -7,7 +7,7 @@
     </tr>   
 </table>
 
-Onde me encontrar?
+Onde me encontrar? :mag: 
 
 <a href="https://www.linkedin.com/in/buenothais"><img src="img/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/buenothais) 
 
