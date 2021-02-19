@@ -3,7 +3,7 @@
 <table>
     <tr>
         <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tfbbueno&hide=html&layout=compact&theme=ayu-mirage" /></td>
-        <td><img src="https://github-readme-stats.vercel.app/api?username=tfbbueno&theme=ayu-mirage"/></td>
+        <td><img src="https://github-readme-stats.vercel.app/api?username=tfbbueno&theme=ayu-mirage&langs_count=3"/></td>
     </tr>   
 </table>
 
